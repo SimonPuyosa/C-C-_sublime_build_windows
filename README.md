@@ -1,2 +1,2 @@
-# C&C++_sublime_build_windows
-Sistem build for sublime to compile C and C++ in Windows 
+# C & C++ sublime build for windows
+Build system for sublime to compile and run C and C++ on CMD Windows 
