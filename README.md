@@ -3,3 +3,4 @@ Build system for sublime to compile and run C and C++ on CMD Windows
 
 ## How to install
 Download the file and copy to "C:\Users\\{"your user name"}\AppData\Roaming\Sublime Text 3\Packages\User"
+Then open sublime text and go to Tools -> Build System and select C and C++
